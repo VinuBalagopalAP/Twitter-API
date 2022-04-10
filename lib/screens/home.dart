@@ -1,4 +1,5 @@
-import 'package:app_wanna_tweet/utlis/theme.dart';
+import 'package:app_wanna_tweet/utils/theme.dart';
+
 import 'package:flutter/material.dart';
 
 class Home extends StatelessWidget {
