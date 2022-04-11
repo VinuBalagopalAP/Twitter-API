@@ -2,6 +2,9 @@
 
 A new flutter project using Twitter API.
 
+![Simulator Screen Shot - iPhone SE (3rd generation) - 2022-04-11 at 10 17 09](https://user-images.githubusercontent.com/48175345/162666739-bd4f7459-d8ae-446f-b8da-49f7400a19d5.png)
+
+
 ## Saturday Night Hack
 
 **What is SHN ?**
